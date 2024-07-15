@@ -1,4 +1,24 @@
 ### ✨Hi there 👋
+
+Who am I? I am a recently graduated Full Stack Developer. Oriented towards continuously acquiring skills in the technology field, I have experience in product development for both backend and frontend.
+
+My nature has always been to keep learning constantly, and I intend to keep growing every day with dedication, effort, and consistency.
+
+What technologies do I handle? JavaScript, React.js, Node.js, Express.js, PostgreSQL, Sequelize, GIT, Bootstrap, HTML, CSS, and tools such as Slack, Figma, and Trello.
+
+What skills do I have? Teamwork ability, neatness, responsibility, willingness to learn, conflict resolution skills, adaptability to different situations, flexibility, goal-oriented towards achieving proposed objectives, and group achievement.
+
+🔭 I’m currently working on a book app project, focusing on backend development.
+🌱 I’m currently learning about Product Management, UX/UI design and English!
+👯 I’m looking to collaborate on open-source projects that aim to create a positive social impact.
+🤔 I’m looking for help with improving my knowledge in DevOps and cloud computing.
+💬 Ask me about full stack development, best practices in coding, or any technology I work with.
+📫 How to reach me: LinkedIn: https://www.linkedin.com/in/cintia-coccia-b2786197/ | Email: cintia_08@hotmail.com | Phone: +54 291 5766293
+😄 Pronouns: She/Her
+⚡ Fun fact: I love traveling and exploring new cultures.
+
+=======
+
 Quién soy?
 Soy programadora Full Stack, recientemente graduada. Orientada a seguir adquiriendo habilidades en el área de la tecnología, tengo experiencia en desarrollo de productos tanto en back como en front end. 
 
